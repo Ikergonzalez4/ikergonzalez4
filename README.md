@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iker</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
-- 🌱 I’m currently learning **frontend & backend**
+- 🌱 I'm currently studying multiplatform development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ikergonzalez4?tab=repositories](https://github.com/Ikergonzalez4?tab=repositories)
 
