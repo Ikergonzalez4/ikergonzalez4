@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from Spain living on Australia</h3>
 
 - 🌱 **Continuously learning**
-- 
+  
 - 📫 How to reach me **ikergc1989@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
