@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Iker and I'm a developer from Spain livin in Australia</h2>
+<h2 align="left">Hi 👋! My name is Iker and I'm a developer from Spain living in Australia</h2>
 
 ###
 
