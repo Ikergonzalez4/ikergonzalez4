@@ -8,8 +8,6 @@
 </div>
 
 ###
-###
-###
 
 <img align="right" height="150" src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47ykmnbce0okbnw7uapzhkavcynzua8ihivw9tar7d&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
 
@@ -17,39 +15,39 @@
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="25" alt="javascript logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="25" alt="kotlin logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="25" alt="tailwindcss logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" alt="react logo"  />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="25" alt="astro logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="25" alt="typescript logo"  />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="25" alt="bash logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="25" alt="nodejs logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="25" alt="npm logo"  />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="25" alt="git logo"  />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="25" alt="figma logo"  />
-  <img width="7" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="25" alt="mongodb logo"  />
-  <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="16" alt="html5 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="16" alt="css3 logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="javascript logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="python logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="16" alt="kotlin logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16" alt="java logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="16" alt="tailwindcss logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="react logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="16" alt="astro logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="16" alt="typescript logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="16" alt="bash logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="16" alt="npm logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="16" alt="git logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="16" alt="figma logo"  />
+  <img width="5" />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="16" alt="mongodb logo"  />
+  <img width="5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="16" alt="mysql logo"  />
 </div>
 
 
