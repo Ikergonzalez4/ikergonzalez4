@@ -81,7 +81,7 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Ikergonzalez4%20&theme=merko" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=ikergonzalez4%20&theme=merko" alt="Layout with last medium posts"  />
 </div>
 
 ###
