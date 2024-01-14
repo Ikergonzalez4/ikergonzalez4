@@ -83,8 +83,9 @@
 
 ###
 
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ikergonzalez4.ikergonzalez4&left_color=violet&right_color=dimgray"  />
+  <a href="https://open.spotify.com/user/1p621rxl2otjoakhc3ie8qj51">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=1p621rxl2otjoakhc3ie8qj51&count=3" alt="Spotify recently played"  />
+  </a>
 </div>
 
