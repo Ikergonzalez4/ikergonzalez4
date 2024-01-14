@@ -61,8 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ikergonzalez4/ikergonzalez4/output/snake.svg" alt="Snake animation" />
-
+![snake gif](https://github.com/Ikergonzalez4/Ikergonzalez4/blob/output/github-contribution-grid-snake.gif)
 ###
 
 <div align="right">
