@@ -6,25 +6,6 @@
 
 ###
 
-<div align="left">
-  <!-- Discord -->
-  <a href="https://discord.com/users/qmiras44" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-
-  <!-- Gmail -->
-  <a href="mailto:ikergc1989@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/iker-gonz%C3%A1lez-camacho-85077220b/" target="_blank" style="text-decoration: none; color: inherit;">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
-
-###
-
 <br clear="both">
 
 <picture>
