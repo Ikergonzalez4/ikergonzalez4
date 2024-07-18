@@ -1,7 +1,7 @@
 ## Hi 👋! My name is Iker and I'm a developer from Spain living in Australia
 
 <div align="center">
-  <img align="right" height="150" src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47ykmnbce0okbnw7uapzhkavcynzua8ihivw9tar7d&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+  <img align="center" height="150" src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47ykmnbce0okbnw7uapzhkavcynzua8ihivw9tar7d&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 <br clear="both">
